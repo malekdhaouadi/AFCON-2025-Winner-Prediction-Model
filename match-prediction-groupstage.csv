@@ -1,0 +1,37 @@
+match_id,group,team1_id,team1_name,team2_id,team2_name,actual_team1_score,actual_team2_score,predicted_team1_score,predicted_team2_score,actual_winner,predicted_winner,date,venue,stage,status,exact_match,correct_winner
+1,A,1,Morocco,20,Comoros,2.0,0.0,3,1,Morocco,Morocco,2025-12-21,Prince Moulay Abdellah Stadium,Group Stage,Completed,False,True
+2,A,8,Mali,16,Zambia,1.0,1.0,2,1,Draw,Mali,2025-12-22,Mohammed V Stadium,Group Stage,Completed,False,False
+3,B,11,South Africa,23,Zimbabwe,2.0,1.0,2,0,South Africa,South Africa,2025-12-22,Adrar Stadium,Group Stage,Completed,False,True
+4,B,3,Egypt,23,Zimbabwe,2.0,1.0,2,0,Egypt,Egypt,2025-12-22,Marrakesh Stadium,Group Stage,Completed,False,True
+5,C,5,Nigeria,21,Tanzania,2.0,1.0,2,1,Nigeria,Nigeria,2025-12-23,Fez Stadium,Group Stage,Completed,True,True
+6,C,6,Tunisia,14,Uganda,3.0,1.0,2,0,Tunisia,Tunisia,2025-12-23,Al Barid Stadium,Group Stage,Completed,False,True
+13,C,5,Nigeria,6,Tunisia,,,1,1,,Draw,2025-01-13,Various Stadiums,Group Stage,Predicted,,
+14,C,5,Nigeria,14,Uganda,,,2,1,,Nigeria,2025-01-14,Various Stadiums,Group Stage,Predicted,,
+15,C,5,Nigeria,21,Tanzania,,,2,1,,Nigeria,2025-01-15,Various Stadiums,Group Stage,Predicted,,
+16,C,6,Tunisia,14,Uganda,,,2,0,,Tunisia,2025-01-13,Various Stadiums,Group Stage,Predicted,,
+17,C,6,Tunisia,21,Tanzania,,,2,0,,Tunisia,2025-01-14,Various Stadiums,Group Stage,Predicted,,
+18,C,14,Uganda,21,Tanzania,,,2,0,,Uganda,2025-01-15,Various Stadiums,Group Stage,Predicted,,
+7,D,2,Senegal,24,Botswana,3.0,0.0,4,0,Senegal,Senegal,2025-12-23,Ibn Batouta Stadium,Group Stage,Completed,False,True
+8,D,9,DRC,17,Benin,1.0,0.0,2,1,DRC,DRC,2025-12-23,Prince Moulay Abdellah Olympic Annex Stadium,Group Stage,Completed,False,True
+19,D,2,Senegal,9,DR Congo,,,3,1,,Senegal,2025-01-13,Various Stadiums,Group Stage,Predicted,,
+20,D,2,Senegal,17,Benin,,,3,1,,Senegal,2025-01-14,Various Stadiums,Group Stage,Predicted,,
+21,D,2,Senegal,24,Botswana,,,4,0,,Senegal,2025-01-15,Various Stadiums,Group Stage,Predicted,,
+22,D,9,DR Congo,17,Benin,,,2,1,,DR Congo,2025-01-13,Various Stadiums,Group Stage,Predicted,,
+23,D,9,DR Congo,24,Botswana,,,3,1,,DR Congo,2025-01-14,Various Stadiums,Group Stage,Predicted,,
+24,D,17,Benin,24,Botswana,,,4,1,,Benin,2025-01-15,Various Stadiums,Group Stage,Predicted,,
+9,E,4,Algeria,22,Sudan,3.0,0.0,3,0,Algeria,Algeria,2025-12-24,Moulay Hassan Stadium,Group Stage,Completed,True,True
+10,E,12,Burkina Faso,18,Equatorial Guinea,2.0,1.0,2,1,Burkina Faso,Burkina Faso,2025-12-24,Mohammed V Stadium,Group Stage,Completed,True,True
+25,E,4,Algeria,12,Burkina Faso,,,2,2,,Draw,2025-01-13,Various Stadiums,Group Stage,Predicted,,
+26,E,4,Algeria,18,Equatorial Guinea,,,2,0,,Algeria,2025-01-14,Various Stadiums,Group Stage,Predicted,,
+27,E,4,Algeria,22,Sudan,,,3,0,,Algeria,2025-01-15,Various Stadiums,Group Stage,Predicted,,
+28,E,12,Burkina Faso,18,Equatorial Guinea,,,2,1,,Burkina Faso,2025-01-13,Various Stadiums,Group Stage,Predicted,,
+29,E,12,Burkina Faso,22,Sudan,,,3,0,,Burkina Faso,2025-01-14,Various Stadiums,Group Stage,Predicted,,
+30,E,18,Equatorial Guinea,22,Sudan,,,3,0,,Equatorial Guinea,2025-01-15,Various Stadiums,Group Stage,Predicted,,
+11,F,7,Cote D'Ivoire,19,Mozambique,1.0,0.0,3,1,Cote D'Ivoire,Cote D'Ivoire,2025-12-24,Marrakesh Stadium,Group Stage,Completed,False,True
+12,F,10,Cameroon,13,Gabon,1.0,0.0,2,1,Cameroon,Cameroon,2025-12-24,Adrar Stadium,Group Stage,Completed,False,True
+31,F,7,Ivory Coast,10,Cameroon,,,2,1,,Ivory Coast,2025-01-13,Various Stadiums,Group Stage,Predicted,,
+32,F,7,Ivory Coast,13,Gabon,,,2,1,,Ivory Coast,2025-01-14,Various Stadiums,Group Stage,Predicted,,
+33,F,7,Ivory Coast,19,Mozambique,,,3,1,,Ivory Coast,2025-01-15,Various Stadiums,Group Stage,Predicted,,
+34,F,10,Cameroon,13,Gabon,,,2,1,,Cameroon,2025-01-13,Various Stadiums,Group Stage,Predicted,,
+35,F,10,Cameroon,19,Mozambique,,,3,1,,Cameroon,2025-01-14,Various Stadiums,Group Stage,Predicted,,
+36,F,13,Gabon,19,Mozambique,,,3,1,,Gabon,2025-01-15,Various Stadiums,Group Stage,Predicted,,

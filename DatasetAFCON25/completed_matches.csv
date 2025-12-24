@@ -1,0 +1,13 @@
+match_id,date,team1,team2,team1_score,team2_score,stage,group,venue
+1,2025-12-21,Morocco,Comoros,2,0,Group Stage,A,Prince Moulay Abdellah Stadium
+2,2025-12-22,Mali,Zambia,1,1,Group Stage,A,Mohammed V Stadium
+3,2025-12-22,South Africa,Zimbabwe,2,1,Group Stage,B,Adrar Stadium
+4,2025-12-22,Egypt,Zimbabwe,2,1,Group Stage,B,Marrakesh Stadium
+5,2025-12-23,Nigeria,Tanzania,2,1,Group Stage,C,Fez Stadium
+6,2025-12-23,Tunisia,Uganda,3,1,Group Stage,C,Al Barid Stadium
+7,2025-12-23,Senegal,Botswana,3,0,Group Stage,D,Ibn Batouta Stadium
+8,2025-12-23,DRC,Benin,1,0,Group Stage,D,Prince Moulay Abdellah Olympic Annex Stadium
+9,2025-12-24,Algeria,Sudan,3,0,Group Stage,E,Moulay Hassan Stadium
+10,2025-12-24,Burkina Faso,Equatorial Guinea,2,1,Group Stage,E,Mohammed V Stadium
+11,2025-12-24,Cote D'Ivoire,Mozambique,1,0,Group Stage,F,Marrakesh Stadium
+12,2025-12-24,Cameroon,Gabon,1,0,Group Stage,F,Adrar Stadium

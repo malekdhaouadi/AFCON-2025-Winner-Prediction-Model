@@ -1,0 +1,661 @@
+Player ID,Name,Team,Position,Age,Club,Goals,Assists,Rating
+1,Yassine Bounou,Morocco,Goalkeeper,32,Al-Hilal,0,0,85
+2,Munir El Kajoui,Morocco,Goalkeeper,35,RS Berkane,0,0,76
+3,El Mehdi Al Harrar,Morocco,Goalkeeper,24,Raja CA,0,0,71
+4,Achraf Hakimi,Morocco,Defender,25,PSG,5,8,86
+5,Mohamed Chibi,Morocco,Defender,28,Pyramids FC,1,2,77
+6,Jawad El Yamiq,Morocco,Defender,32,Al-Najma SC,2,1,78
+7,Roman Saïss,Morocco,Defender,34,Al-Sadd SC,3,1,79
+8,Abdelhamid Aït Boudlal,Morocco,Defender,23,Amiens SC,0,1,70
+9,Nayef Aguerd,Morocco,Defender,28,Olympique de Marseille,2,1,80
+10,Adam Masina,Morocco,Defender,30,Torino FC,1,3,76
+11,Noussair Mazraoui,Morocco,Defender,26,Manchester United,2,5,82
+12,Anass Salah-Eddine,Morocco,Defender,22,PSV Eindhoven,1,2,73
+13,Oussama Targhalline,Morocco,Midfielder,22,Feyenoord Rotterdam,3,4,74
+14,Sofyan Amrabat,Morocco,Midfielder,28,Betis Sevilla,1,3,81
+15,Ismael Saibari,Morocco,Midfielder,23,PSV Eindhoven,6,7,78
+16,Neil El Aynaoui,Morocco,Midfielder,22,AS Roma,2,3,75
+17,Bilal El Khannouss,Morocco,Midfielder,20,VfB Stuttgart,4,8,77
+18,Azzedine Ounahi,Morocco,Midfielder,24,Girona FC,3,5,79
+19,Brahim Diaz,Morocco,Forward,25,Real Madrid,12,9,84
+20,Ilias Akhomach,Morocco,Forward,20,Villarreal CF,4,6,76
+21,Chemsdine Talbi,Morocco,Forward,22,Sunderland AFC,7,3,73
+22,Youssef En-Nesyri,Morocco,Forward,27,Fenerbahce,18,4,82
+23,Ayoub El Kaabi,Morocco,Forward,31,Olympiakos,15,6,80
+24,Soufiane Rahimi,Morocco,Forward,28,Al-Ain,14,8,81
+25,Abdessamad Ezzalzouli,Morocco,Forward,23,Betis Seville,5,7,77
+26,Eliesse Ben Seghir,Morocco,Forward,19,Monaco,6,5,75
+27,Djigui Diarra,Mali,Goalkeeper,29,Young Africans,0,0,75
+28,Ismael Diawara,Mali,Goalkeeper,30,IK Sirius,0,0,73
+29,Mamadou Samassa,Mali,Goalkeeper,38,Laval,0,0,70
+30,Sikou Niakate,Mali,Defender,24,SC Braga,2,1,78
+31,Abdoulaye Diaby,Mali,Defender,28,Grasshoppers,1,2,76
+32,Woyo Coulibaly,Mali,Defender,26,Sassuolo,1,3,75
+33,Fode Doucoure,Mali,Defender,22,Red Star,0,1,71
+34,Hamari Traore,Mali,Defender,32,Paris FC,2,4,79
+35,Ousmane Camara,Mali,Defender,25,Angers SCO,1,2,74
+36,Mamadou Fofana,Mali,Defender,26,New England Revolution,2,1,76
+37,Nathan Bassama,Mali,Defender,23,Baltika,0,1,72
+38,Amadou Dante,Mali,Defender,24,Arouca,1,1,73
+39,Amadou Haidara,Mali,Midfielder,26,RB Leipzig,4,5,80
+40,Lassana Coulibaly,Mali,Midfielder,28,Lecce,2,3,77
+41,Mohamed Camara,Mali,Midfielder,24,Al-Saad,3,4,78
+42,Mamadou Sangaré,Mali,Midfielder,22,RC Lens,2,2,75
+43,Aliou Dieng,Mali,Midfielder,27,Al-Ahly,3,3,79
+44,Yves Bissouma,Mali,Midfielder,28,Tottenham,2,4,82
+45,Mahamadou Doumbia,Mali,Midfielder,23,Al Ittihad,3,2,74
+46,Ibrahima Sissoko,Mali,Midfielder,26,VFL Bochum,2,3,76
+47,Nene Dorgeles,Mali,Forward,21,Fenerbahce,9,6,78
+48,Gaoussou Diarra,Mali,Forward,22,Feyenoord,5,4,74
+49,El-Bilal Toure,Mali,Forward,23,Besiktas,11,3,79
+50,Lassine Sinayoko,Mali,Forward,25,AJ Auxerre,8,5,77
+51,Kamory Doumbia,Mali,Forward,21,Brest,7,4,76
+52,Mamadou Doumbia,Mali,Forward,20,Watford,4,3,73
+53,Gaoussou Diakite,Mali,Forward,24,Lausanne-Sport,5,2,72
+54,Mamadou Camara,Mali,Forward,23,Laval,3,1,71
+55,Lawrence Mulenga,Zambia,Goalkeeper,25,Power Dynamos,0,0,68
+56,Francis Mwansa,Zambia,Goalkeeper,24,Zanaco,0,0,66
+57,Willard Mwanza,Zambia,Goalkeeper,21,Power Dynamos,0,0,64
+58,Mathews Banda,Zambia,Defender,26,Nkana,1,2,67
+59,Dominic Chanda,Zambia,Defender,28,Power Dynamos,0,1,66
+60,Obino Chisala,Zambia,Defender,27,Al Merrikh,2,1,69
+61,Kabaso Chongo,Zambia,Defender,32,Zesco United,1,3,70
+62,David Hamansenya,Zambia,Defender,25,Leganes,0,2,68
+63,Gift Mphande,Zambia,Defender,22,Zesco United,1,1,67
+64,Frankie Musonda,Zambia,Defender,26,Bahrain SC,2,1,71
+65,Benson Sakala,Zambia,Defender,27,Bohemians 1905,1,2,72
+66,Stoppila Sunzu,Zambia,Defender,35,Changchun Yatai,3,1,73
+67,Joseph Sabobo Banda,Zambia,Midfielder,24,Hapoel Be'er Sheva,4,5,72
+68,Lameck Banda,Zambia,Midfielder,23,Lecce,6,7,75
+69,Miguel Chaiwa,Zambia,Midfielder,20,Hibernian,2,3,70
+70,Wilson Chisala,Zambia,Midfielder,26,Zanaco,3,4,68
+71,Given Kalusa,Zambia,Midfielder,22,FC Muza,2,2,67
+72,Kings Kangwa,Zambia,Midfielder,25,Hapoel Be'er Sheva,7,4,74
+73,Joseph Liteta,Zambia,Midfielder,23,Cagliari,3,5,73
+74,Lubambo Musonda,Zambia,Midfielder,28,FC Magdeburg,4,6,72
+75,Pascal Phiri,Zambia,Midfielder,26,Zesco United,2,3,69
+76,Fashion Sakala,Zambia,Midfielder,27,Al Fayha,9,5,76
+77,David Simukonda,Zambia,Midfielder,24,Zesco United,3,4,68
+78,Owen Tembo,Zambia,Midfielder,23,Power Dynamos,2,2,66
+79,Patson Daka,Zambia,Forward,26,Leicester City,14,6,78
+80,Jack Lahne Kalichi,Zambia,Forward,22,Austria Lustenau,5,3,70
+81,Eliya Mandanji,Zambia,Forward,25,Zanaco,7,2,69
+82,Kennedy Musonda,Zambia,Forward,28,Hapoel Ramat Gan,6,4,71
+83,Yannick Pandor,Comoros,Goalkeeper,25,Francs Borains,0,0,66
+84,Salim Ben Boina,Comoros,Goalkeeper,29,Istres,0,0,65
+85,Adel Anzimati,Comoros,Goalkeeper,22,FC Ararat,0,0,63
+86,Said Bakari,Comoros,Defender,26,Sparta Rotterdam,2,3,71
+87,Kassim M'Dahoma,Comoros,Defender,27,Aubagne,1,1,68
+88,Kenan Toibibou,Comoros,Defender,24,Bravo,0,2,67
+89,Ahmed Soilihi,Comoros,Defender,25,Toulon,1,1,66
+90,Idris Mohamed,Comoros,Defender,23,Le Puy,0,1,65
+91,Yannis Kari,Comoros,Defender,28,Frejus Saint Raphael,2,2,69
+92,Akim Abdallah,Comoros,Defender,26,Guingamp,1,1,68
+93,Bendjaloud Youssouf,Comoros,Defender,24,FC Sochaux,0,2,67
+94,Remy Vita,Comoros,Defender,27,CD Tondela,1,3,70
+95,Ismael Boura,Comoros,Defender,22,Troyes,0,1,66
+96,Youssouf M'Changama,Comoros,Midfielder,33,Al-Batin,5,6,74
+97,Zaydou Youssouf,Comoros,Midfielder,25,Al-Fateh,3,4,72
+98,Rayan Lutin,Comoros,Midfielder,23,Amiens,2,3,70
+99,Raouf Mroivili,Comoros,Midfielder,22,Villefranche,1,2,68
+100,Iyad Mohamed,Comoros,Midfielder,24,Casa Pia,3,3,71
+101,Aymeric Ahmed,Comoros,Midfielder,25,Chateauroux,2,2,67
+102,Yacine Bourhane,Comoros,Midfielder,26,Aris Limassol,4,4,73
+103,Rafiki Said,Comoros,Forward,26,Standard de Liege,8,5,74
+104,Myziane Maolida,Comoros,Forward,25,Al Kholood,9,4,75
+105,Faiz Selemani,Comoros,Forward,30,Qatar SC,7,3,73
+106,Aboubacar Ali Abdallah,Comoros,Forward,23,Francs Borains,5,2,69
+107,El Fardou Ben Mohamed,Comoros,Forward,35,Zemun,6,1,72
+108,Zaïd Amir,Comoros,Forward,24,Istres,4,3,70
+109,Mohamed El-Shenawy,Egypt,Goalkeeper,35,Al Ahly,0,0,84
+110,Ahmed El-Shenawy,Egypt,Goalkeeper,34,Pyramids FC,0,0,80
+111,Mostafa Shobeir,Egypt,Goalkeeper,24,Al Ahly,0,0,76
+112,Mohamed Sobhi,Egypt,Goalkeeper,27,Zamalek,0,0,78
+113,Rami Rabia,Egypt,Defender,31,Al-Ain,2,1,79
+114,Mohamed Hany,Egypt,Defender,28,Al Ahly,1,4,77
+115,Yasser Brahim,Egypt,Defender,30,Al Ahly,0,2,76
+116,Khaled Sobhi,Egypt,Defender,27,Al Masry,1,1,74
+117,Ahmed Eid,Egypt,Defender,25,Al Masry,0,1,73
+118,Hossam Abdelmaguid,Egypt,Defender,29,Zamalek,2,1,75
+119,Mohamed Ismail,Egypt,Defender,26,Zamalek,1,2,74
+120,Ahmed Fatouh,Egypt,Defender,24,Zamalek,1,3,76
+121,Mohamed Hamdy,Egypt,Defender,27,Al Ahly,2,2,77
+122,Marwan Attia,Egypt,Midfielder,26,Al Ahly,3,4,78
+123,Hamdy Fathi,Egypt,Midfielder,30,Al Wakrah,2,3,77
+124,Mohanad Lasheen,Egypt,Midfielder,27,Pyramids FC,4,5,79
+125,Mahmoud Saber,Egypt,Midfielder,28,Pyramids FC,3,4,78
+126,Mohamed Shehata,Egypt,Midfielder,25,Zamalek,2,3,76
+127,Emam Ashour,Egypt,Midfielder,26,Al Ahly,5,6,80
+128,Ahmed Sayed Zizo,Egypt,Midfielder,28,Al Ahly,8,9,82
+129,Mahmoud Trezeguet,Egypt,Midfielder,29,Al Ahly,7,6,81
+130,Ibrahim Adel,Egypt,Midfielder,23,Al Jazira,6,7,79
+131,Mostafa Fathi,Egypt,Midfielder,30,Pyramids FC,5,4,78
+132,Mohamed Salah,Egypt,Forward,32,Liverpool,19,12,89
+133,Omar Marmoush,Egypt,Forward,25,Manchester City,13,8,83
+134,Mostafa Mohamed,Egypt,Forward,26,FC Nantes,15,4,81
+135,Salah Mohsen,Egypt,Forward,27,Al Masry,8,3,76
+136,Osama Faisal,Egypt,Forward,22,Bank El Ahly,6,2,73
+137,Ronwen Williams,South Africa,Goalkeeper,32,Mamelodi Sundowns,0,0,80
+138,Ricardo Goss,South Africa,Goalkeeper,30,Siwelele,0,0,75
+139,Sipho Chaine,South Africa,Goalkeeper,27,Orlando Pirates,0,0,73
+140,Khuliso Mudau,South Africa,Defender,29,Mamelodi Sundowns,2,5,78
+141,Thabang Matuludi,South Africa,Defender,26,Polokwane City,1,2,72
+142,Tylon Smith,South Africa,Defender,24,Queens Park Rangers,1,3,74
+143,Nkosinathi Sibisi,South Africa,Defender,28,Orlando Pirates,2,1,75
+144,Aubrey Modiba,South Africa,Defender,29,Mamelodi Sundowns,3,4,77
+145,Khulamani Ndamane,South Africa,Defender,25,TS Galaxy,0,1,71
+146,Siyabonga Ngezana,South Africa,Defender,26,FCSB,1,1,73
+147,Samukele Kabini,South Africa,Defender,23,Molde,0,2,72
+148,Mbekezeli Mbokazi,South Africa,Defender,27,Orlando Pirates,1,1,74
+149,Teboho Mokoena,South Africa,Midfielder,27,Mamelodi Sundowns,5,7,79
+150,Bathusi Aubaas,South Africa,Midfielder,29,Mamelodi Sundowns,2,3,76
+151,Thalente Mbatha,South Africa,Midfielder,24,Orlando Pirates,3,4,75
+152,Sphephelo Sithole,South Africa,Midfielder,25,Tondela,2,3,74
+153,Oswin Appollis,South Africa,Forward,23,Orlando Pirates,6,4,75
+154,Mohau Nkota,South Africa,Forward,25,Al Ettifaq,7,3,76
+155,Tshepang Moremi,South Africa,Forward,22,Orlando Pirates,4,2,73
+156,Evidence Makgopa,South Africa,Forward,24,Orlando Pirates,8,2,76
+157,Lyle Foster,South Africa,Forward,23,Burnley,11,5,78
+158,Sipho Mbule,South Africa,Forward,26,Orlando Pirates,5,6,77
+159,Elias Mokwana,South Africa,Forward,24,Al Hazem,4,3,74
+160,Shandre Campbell,South Africa,Forward,20,Club Bruges,3,4,75
+161,Relebohile Mofokeng,South Africa,Forward,19,Orlando Pirates,5,5,76
+162,Neblu,Angola,Goalkeeper,30,Primeiro de Agosto,0,0,74
+163,Hugo Marques,Angola,Goalkeeper,38,Petro de Luanda,0,0,72
+164,Signori Antonio,Angola,Goalkeeper,25,Etoile Carouge,0,0,68
+165,Rui Modesto,Angola,Defender,27,Udinese,1,2,75
+166,Eddie Afonso,Angola,Defender,29,Petro de Luanda,2,1,73
+167,To Carneiro,Angola,Defender,26,FAR Rabat,1,1,72
+168,Nurio Fortuna,Angola,Defender,29,Volos,2,3,76
+169,Pedro Bondo,Angola,Defender,24,Famalicao,0,2,74
+170,David Carmo,Angola,Defender,25,Real Oviedo,1,1,75
+171,Jonathan Buatu,Angola,Defender,30,Gil Vicente,2,1,77
+172,Kilandola Gaspar,Angola,Defender,28,Lecce,1,2,76
+173,Clinton Mata,Angola,Defender,31,Olympique Lyonnais,2,4,78
+174,Beni Mukendi,Angola,Midfielder,23,Guimaraes,3,4,74
+175,Show,Angola,Midfielder,28,Kocaelispor,4,5,76
+176,Fredy,Angola,Midfielder,26,Bodrumspor,2,3,75
+177,Maestro,Angola,Midfielder,27,Alanyaspor,5,6,77
+178,Kelliano,Angola,Midfielder,25,Akhmat Grozny,3,4,76
+179,Mario Balburdia,Angola,Midfielder,24,Boluspor,2,2,73
+180,Zito Luvumbo,Angola,Forward,22,Cagliari,8,7,78
+181,Manuel Benson,Angola,Forward,27,Swansea City,6,8,77
+182,Milson,Angola,Forward,24,Red Star Belgrade,9,4,76
+183,Chico Banza,Angola,Forward,26,Zamalek SC,10,3,77
+184,Gelson Dala,Angola,Forward,27,Al-Wakrah,14,6,80
+185,Randy Nteka,Angola,Forward,26,Rayo Vallecano,7,5,78
+186,Ary Papel,Angola,Forward,28,Al-Akhdar SC,6,4,75
+187,Mabulu,Angola,Forward,29,Al-Ahli Tripoli SC,8,2,74
+188,Mbala Zola,Angola,Forward,25,Pisa,5,3,73
+189,Zine Salvador,Angola,Forward,23,AEK,4,2,72
+190,Washington Arubi,Zimbabwe,Goalkeeper,39,Marumo Gallants,0,0,70
+191,Elvis Chipezeze,Zimbabwe,Goalkeeper,34,Magesi,0,0,68
+192,Martin Mapisa,Zimbabwe,Goalkeeper,25,MWOS FC,0,0,65
+193,Godknows Murwira,Zimbabwe,Defender,29,Scottland FC,1,3,71
+194,Emmanuel Jalai,Zimbabwe,Defender,24,Dynamos FC,0,1,67
+195,Sean Fusire,Zimbabwe,Defender,19,Sheffield Wednesday,0,2,66
+196,Munashe Garananga,Zimbabwe,Defender,22,FC Copenhagen,1,1,73
+197,Gerald Takwara,Zimbabwe,Defender,29,Al Ittihad Misurata SC,2,1,72
+198,Isheanesu Mauchi,Zimbabwe,Defender,27,Simba Bhora FC,1,0,69
+199,Brandon Galloway,Zimbabwe,Defender,23,Plymouth Argyle,1,2,74
+200,Teenage Hadebe,Zimbabwe,Defender,28,FC Cincinnati,2,1,75
+201,Alec Mudimu,Zimbabwe,Defender,28,Flint Town United,1,2,70
+202,Divine Lunga,Zimbabwe,Defender,29,Mamelodi Sundowns,2,3,76
+203,Marvelous Nakamba,Zimbabwe,Midfielder,30,Luton Town,1,4,77
+204,Jonah Fabisch,Zimbabwe,Midfielder,21,Erzegebirg Aue,2,3,72
+205,Andrew Rinohmhota,Zimbabwe,Midfielder,26,Reading,3,4,74
+206,Prosper Padera,Zimbabwe,Midfielder,24,SJK Seina Joki,1,2,71
+207,Tawanda Chirewa,Zimbabwe,Midfielder,21,Wolverhampton Wanderers,3,5,75
+208,Knowledge Musona,Zimbabwe,Midfielder,34,Scottland FC,5,4,73
+209,Bill Antonio,Zimbabwe,Forward,20,KV Mechelen,6,4,74
+210,Ishmael Wadi,Zimbabwe,Forward,26,CAPS United,7,2,72
+211,Tawanda Maswanhise,Zimbabwe,Forward,21,Motherwell,4,3,73
+212,Daniel Msendami,Zimbabwe,Forward,24,Marumo Gallants,5,1,71
+213,Prince Dube,Zimbabwe,Forward,27,Young Africans,8,3,75
+214,Washington Navaya,Zimbabwe,Forward,23,TelOne,3,2,70
+215,Macauley Bonne,Zimbabwe,Forward,28,Maldon & Tiptree,6,1,72
+216,Junior Zindoga,Zimbabwe,Forward,25,TS Galaxy,4,2,71
+217,Tadiwanasche Chakuchichi,Zimbabwe,Forward,22,Scottland FC,3,1,69
+218,Stanley Nwabali,Nigeria,Goalkeeper,28,Chippa Utd,0,0,78
+219,Amas Obasogie,Nigeria,Goalkeeper,24,Singida Black Stars,0,0,72
+220,Francis Uzoho,Nigeria,Goalkeeper,25,Omonia,0,0,76
+221,Calvin Bassey,Nigeria,Defender,24,Fulham,2,3,79
+222,Semi Ajayi,Nigeria,Defender,30,Hull City,3,1,77
+223,Bright Osayi-Samuel,Nigeria,Defender,26,Birmingham City,1,4,76
+224,Bruno Onyemaechi,Nigeria,Defender,25,Olympiacos,0,2,75
+225,Chidozie Awaziem,Nigeria,Defender,27,Nantes,1,1,77
+226,Zaidu Sanusi,Nigeria,Defender,27,Porto,2,3,78
+227,Igoh Ogbu,Nigeria,Defender,24,Slavia Prague,1,1,76
+228,Ryan Alebiosu,Nigeria,Defender,22,Blackburn Rovers,0,3,74
+229,Alex Iwobi,Nigeria,Midfielder,28,Fulham,6,9,82
+230,Frank Onyeka,Nigeria,Midfielder,26,Brentford,3,4,79
+231,Wilfred Ndidi,Nigeria,Midfielder,27,Besiktas,4,5,81
+232,Raphael Onyedika,Nigeria,Midfielder,23,Club Brugge,3,6,78
+233,Tochukwu Nnadi,Nigeria,Midfielder,22,Zulte Waregem,2,3,75
+234,Fisayo Dele-Bashiru,Nigeria,Midfielder,23,Lazio,4,5,77
+235,Ebenezer Akinsanmiro,Nigeria,Midfielder,20,Pisa,1,2,73
+236,Usman Muhammed,Nigeria,Midfielder,26,Ironi Tiberias,3,3,74
+237,Chidera Ejuke,Nigeria,Forward,26,Sevilla,7,6,79
+238,Akor Adams,Nigeria,Forward,24,Sevilla,9,3,78
+239,Ademola Lookman,Nigeria,Forward,27,Atalanta,13,8,84
+240,Samuel Chukwueze,Nigeria,Forward,25,Fulham,8,7,82
+241,Victor Osimhen,Nigeria,Forward,25,Galatasaray,20,4,86
+242,Moses Simon,Nigeria,Forward,29,Paris FC,6,8,80
+243,Paul Onuachu,Nigeria,Forward,30,Trabzonspor,14,2,81
+244,Cyriel Dessers,Nigeria,Forward,29,Panathinaikos,12,5,80
+245,Salim Fago Lawal,Nigeria,Forward,22,Istra 1961,4,3,74
+246,Aymen Dahmen,Tunisia,Goalkeeper,26,CS Sfaxien,0,0,77
+247,Bechir Ben Said,Tunisia,Goalkeeper,31,ES Tunis,0,0,79
+248,Noureddine Farhati,Tunisia,Goalkeeper,29,Stade Tunisien,0,0,75
+249,Sabri Ben Hassen,Tunisia,Goalkeeper,28,ES Sahel,0,0,76
+250,Yassine Meriah,Tunisia,Defender,31,ES Tunis,2,1,78
+251,Montassar Talbi,Tunisia,Defender,26,Lorient,1,1,77
+252,Dylan Bronn,Tunisia,Defender,28,Servette,2,2,76
+253,Adem Arous,Tunisia,Defender,27,Kasimpasa,1,3,75
+254,Nader Ghandri,Tunisia,Defender,29,Akhmat Grozny,2,1,77
+255,Mohamed Ben Ali,Tunisia,Defender,25,ES Tunis,0,2,74
+256,Yan Valery,Tunisia,Defender,25,Sheffield Wednesday,1,4,76
+257,Ali Abdi,Tunisia,Defender,30,Nice,2,5,78
+258,Mortadha Ben Ouanes,Tunisia,Defender,26,Kasimpasa,1,2,75
+259,Ali Maaloul,Tunisia,Defender,34,CS Sfaxien,3,6,79
+260,Ellyes Skhiri,Tunisia,Midfielder,29,Eintracht Frankfurt,5,4,81
+261,Houssem Tka,Tunisia,Midfielder,23,ES Tunis,3,5,77
+262,Ferjani Sassi,Tunisia,Midfielder,32,Al-Gharafa SC,2,3,76
+263,Ismael Gharbi,Tunisia,Midfielder,24,FC Augsburg,4,6,78
+264,Mohamed Belhadj Mahmoud,Tunisia,Midfielder,25,FC Lugano,3,4,77
+265,Mohamed Ali Ben Romdhane,Tunisia,Midfielder,25,Al Ahly FC,5,5,79
+266,Hannibal Mejbri,Tunisia,Midfielder,21,Burnley,2,5,76
+267,Elias Saad,Tunisia,Forward,26,FC Augsburg,7,4,77
+268,Elias Achouri,Tunisia,Forward,25,FC Copenhagen,9,5,79
+269,Sebastian Tounekti,Tunisia,Forward,23,Celtic,6,3,78
+270,Firas Chaouat,Tunisia,Forward,24,Club Africain,8,2,76
+271,Hazem Mastouri,Tunisia,Forward,27,Dinamo Makhachkala,5,1,75
+272,Seifeddine Jaziri,Tunisia,Forward,31,Zamalek SC,10,3,78
+273,Naim Sliti,Tunisia,Forward,32,Al-Shamal SC,8,7,80
+274,Salim Magoola,Uganda,Goalkeeper,28,Richards Bay,0,0,74
+275,Denis Onyango,Uganda,Goalkeeper,39,Mamelodi Sundowns,0,0,76
+276,Nafian Alionzi,Uganda,Goalkeeper,28,Mechal,0,0,72
+277,Charles Lukwago,Uganda,Goalkeeper,28,KCCA FC,0,0,71
+278,Toby Sibbick,Uganda,Defender,25,Burton Albion,1,2,73
+279,Elio Caprodossi,Uganda,Defender,27,FC Universitatae Cluj,0,1,72
+280,Jordan Obita,Uganda,Defender,30,Hibernian,2,4,75
+281,Rogers Torach,Uganda,Defender,22,Vipers SC,1,1,70
+282,Aziz Kayondo,Uganda,Defender,22,Slovan Liberec,1,2,73
+283,Isaac Muleme,Uganda,Defender,31,Viktoria Zizkov,2,3,74
+284,Timothy Awany,Uganda,Defender,28,FC Ashdod,1,1,75
+285,David Owori,Uganda,Defender,25,SC Villa,0,1,69
+286,Hilary Mukundane,Uganda,Defender,24,Vipers SC,2,1,72
+287,Kenneth Semakula,Uganda,Midfielder,22,Al Adalah,3,4,74
+288,Khalid Aucho,Uganda,Midfielder,31,Singida Black Stars SC,2,3,76
+289,Ronald Ssekiganda,Uganda,Midfielder,21,APR FC,1,2,71
+290,Bobosi Byaruhanga,Uganda,Midfielder,22,Oakland Roots,2,3,73
+291,Baba Alhassan,Uganda,Midfielder,24,FCSB,3,5,75
+292,Allan Okello,Uganda,Forward,24,Vipers SC,6,7,76
+293,Melvyn Lorenzen,Uganda,Forward,30,Muangthong United,7,4,75
+294,Travis Mutyaba,Uganda,Forward,19,CS Sfaxien,4,3,73
+295,Denis Omedi,Uganda,Forward,27,APR FC,8,2,74
+296,Rogers Mato,Uganda,Forward,25,FK Vardar,5,1,72
+297,Reagan Mpande,Uganda,Forward,23,SC Villa,3,2,71
+298,Jude Ssemugabi,Uganda,Forward,22,Jamus FC,2,1,70
+299,Uche Ikpeazu,Uganda,Forward,29,St Johnstone,6,1,73
+300,Steven Mukwala,Uganda,Forward,29,Simba SC,9,3,76
+301,James Bogere,Uganda,Forward,21,Masaka Sunshine,3,1,69
+302,Ivan Ahimbisibwe,Uganda,Forward,24,KCCA FC,4,2,72
+303,Shafiq Kwikiriza,Uganda,Forward,20,KCCA FC,2,1,70
+304,Yakoub Suleiman,Tanzania,Goalkeeper,26,Simba SC,0,0,73
+305,Hussein Masalanga,Tanzania,Goalkeeper,28,Singida BS,0,0,71
+306,Zuberi Foba,Tanzania,Goalkeeper,24,Azam FC,0,0,70
+307,Bakari Mwamnyeto,Tanzania,Defender,26,Young Africans,1,2,74
+308,Shomari Kapombe,Tanzania,Defender,31,Simba SC,2,3,75
+309,Lusajo Mwaikenda,Tanzania,Defender,25,Azam FC,0,1,72
+310,Mohamed Hussein,Tanzania,Defender,27,Young Africans,1,1,73
+311,Nickson Kibabage,Tanzania,Defender,23,Singida BS,0,2,71
+312,Alphonse Mabula,Tanzania,Defender,24,Shamakhi,1,1,72
+313,Wilson Nangu,Tanzania,Defender,29,Simba SC,2,1,74
+314,Novatus Miroshi,Tanzania,Midfielder,22,Göztepe,3,5,76
+315,Kelvin Nashon,Tanzania,Midfielder,24,Pamba Jiji,2,3,72
+316,Pascal Msindo,Tanzania,Midfielder,26,Azam FC,3,4,74
+317,Ibrahim Abdulla,Tanzania,Midfielder,28,Young Africans,4,5,75
+318,Haji Mnoga,Tanzania,Midfielder,22,Salford City,2,2,73
+319,Dickson Job,Tanzania,Midfielder,25,Young Africans,3,3,74
+320,Habibu Idd,Tanzania,Midfielder,27,Singida BS,2,1,72
+321,Tarryn Allarakhia,Tanzania,Forward,26,Rochdale,6,4,75
+322,Charles M'Mombwa,Tanzania,Forward,23,Floriana,5,3,73
+323,Yusuph Kagoma,Tanzania,Forward,28,Simba SC,7,2,74
+324,Feisal Salum,Tanzania,Forward,25,Azam FC,4,3,73
+325,Morice Abraham,Tanzania,Forward,24,Simba SC,6,1,74
+326,Abdul Suleiman,Tanzania,Forward,22,Azam FC,3,2,72
+327,Iddi Suleiman,Tanzania,Forward,23,Azam FC,2,1,71
+328,Kibu Dennis,Tanzania,Forward,20,Simba SC,4,3,73
+329,Ally Samatta,Tanzania,Forward,31,Le Havre,8,4,76
+330,Kelvin John,Tanzania,Forward,21,Aalborg,5,2,74
+331,Simon Msuva,Tanzania,Forward,31,Al-Talaba,7,3,75
+332,Edouard Mendy,Senegal,Goalkeeper,32,Al Ahli,0,0,86
+333,Yehvann Diouf,Senegal,Goalkeeper,25,Nice,0,0,80
+334,Mory Diaw,Senegal,Goalkeeper,40,Le Havre,0,0,78
+335,Ilay Camara,Senegal,Defender,22,Anderlecht,1,3,77
+336,Krépin Diatta,Senegal,Defender,25,AS Monaco,4,6,82
+337,Antoine Mendy,Senegal,Defender,21,Nice,1,2,76
+338,Kalidou Koulibaly,Senegal,Defender,33,Al Hilal,2,1,85
+339,Abdoulaye Sek,Senegal,Defender,27,Maccabi Haifa,1,1,78
+340,Moussa Niakhate,Senegal,Defender,28,Lyon,2,2,81
+341,Mamadou Sarr,Senegal,Defender,20,Strasbourg,0,1,74
+342,El-Hadji Malick Diouf,Senegal,Defender,23,West Ham,1,1,77
+343,Ismail Jakobs,Senegal,Defender,25,Galatasaray,2,4,80
+344,Idrissa Gana Gueye,Senegal,Midfielder,35,Everton,3,4,83
+345,Habib Diarra,Senegal,Midfielder,20,Sunderland,2,5,78
+346,Pape Matar Sarr,Senegal,Midfielder,22,Tottenham,5,6,84
+347,Pape Alassane Gueye,Senegal,Midfielder,25,Villarreal,3,4,79
+348,Lamine Camara,Senegal,Midfielder,20,AS Monaco,4,5,80
+349,Pathe Ciss,Senegal,Midfielder,30,Rayo Vallecano,2,3,78
+350,Sadio Mane,Senegal,Forward,32,Al Nassr,16,10,87
+351,Iliman Ndiaye,Senegal,Forward,25,Everton,11,8,83
+352,Nicolas Jackson,Senegal,Forward,23,Bayern Munich,14,6,84
+353,Habib Diallo,Senegal,Forward,29,Metz,12,3,81
+354,Boulaye Dia,Senegal,Forward,28,Lazio,13,4,82
+355,Cheikh T Sabaly,Senegal,Forward,26,Metz,7,5,79
+356,Assane Diao,Senegal,Forward,19,Como,5,4,77
+357,Ibrahim Mbaye,Senegal,Forward,22,PSG,6,3,78
+358,Cherif Ndiaye,Senegal,Forward,27,Samsunspor,9,2,80
+359,Ismaila Sarr,Senegal,Forward,26,Crystal Palace,8,7,82
+360,Matthieu Epolo,DRC,Goalkeeper,23,Standard de Liege,0,0,75
+361,Timothy Fayulu,DRC,Goalkeeper,25,Noah,0,0,72
+362,Lionel Mpasi,DRC,Goalkeeper,30,Le Havre,0,0,77
+363,Rocky Bushiri,DRC,Defender,24,Hibernian,1,1,76
+364,Gedeon Kalulu,DRC,Defender,28,Aris Limassol,2,2,77
+365,Steve Kapuadi,DRC,Defender,26,Legia Warsaw,1,3,78
+366,Joris Kayembe,DRC,Defender,29,Genk,2,4,79
+367,Arthur Masuaku,DRC,Defender,30,Sunderland,1,5,78
+368,Chancel Mbemba,DRC,Defender,30,Lille,3,1,82
+369,Axel Tuanzebe,DRC,Defender,27,Burnley,1,1,77
+370,Aaron Wan-Bissaka,DRC,Defender,27,West Ham,1,4,81
+371,Theo Bongonda,DRC,Midfielder,29,Spartak Moscow,7,6,80
+372,Michel-Ange Balikwisha,DRC,Midfielder,24,Celtic,5,7,79
+373,Brian Cipenga,DRC,Midfielder,21,Castellon,2,3,74
+374,Edo Kayembe,DRC,Midfielder,26,Watford,3,4,78
+375,Nathanaol Mbuku,DRC,Midfielder,23,Montpellier,4,5,77
+376,Samuel Moutoussamy,DRC,Midfielder,28,Atromitos,2,3,76
+377,Ngal'ayel Mukau,DRC,Midfielder,22,Lille,1,2,75
+378,Charles Pickel,DRC,Midfielder,31,Espanyol,3,4,78
+379,Noah Sadiki,DRC,Midfielder,20,Sunderland,2,3,76
+380,Mario Stroeykens,DRC,Midfielder,20,Anderlecht,3,5,77
+381,Cedric Bakambu,DRC,Forward,33,Betis,10,3,80
+382,Simon Banza,DRC,Forward,27,Al-Jazeera,12,4,81
+383,Samuel Essende,DRC,Forward,24,Augsburg,7,2,77
+384,Meschack Elia,DRC,Forward,27,Alanyaspor,8,5,79
+385,Fiston Mayele,DRC,Forward,30,Pyramids,11,3,80
+386,Marcel Dandjinou,Benin,Goalkeeper,27,Loto,0,0,71
+387,Kassifa Saturnin Allagbe,Benin,Goalkeeper,25,Chaurey,0,0,69
+388,Serge Obassa,Benin,Goalkeeper,28,Remo Stars,0,0,70
+389,Samadou Attidjikou,Benin,Defender,29,Smouha,1,2,73
+390,Charlemagne Azongnitode,Benin,Defender,26,Oulu,0,1,72
+391,Rodrigue Fassinnou,Benin,Defender,24,Coton FC,1,1,70
+392,David Kiki,Benin,Defender,30,FCSB,2,3,76
+393,Rachid Moumini,Benin,Defender,27,Sumqayit FK,1,1,74
+394,Tamimou Ouorou,Benin,Defender,28,no club,0,0,68
+395,Yohan Roche,Benin,Defender,31,Petrolul,2,1,75
+396,Mohamed Tijani,Benin,Defender,25,Yverdon,0,2,73
+397,Olivier Verdon,Benin,Defender,28,Ludogorets,1,1,77
+398,Mattéo Ahlinvi,Benin,Midfielder,25,Arsenal,2,4,75
+399,Mariano Ahouangbo,Benin,Midfielder,26,NK Olimpija Ljubljana,3,3,74
+400,Ghislain Ahoudo,Benin,Midfielder,24,AS Gabes,1,2,72
+401,Sessi d'Almeida,Benin,Midfielder,29,Neftci Baku,2,3,76
+402,Dodo Dokou,Benin,Midfielder,23,Leixoes,1,2,73
+403,Imourane Hassane,Benin,Midfielder,27,Grasshoppers,3,4,75
+404,Rodrigue Kossi,Benin,Midfielder,22,Agadir,2,2,71
+405,Adam Akimey,Benin,Forward,22,Helsingborgs IF,5,3,74
+406,Rodolfo Aloko,Benin,Forward,24,Kustosija,4,2,72
+407,Romaric Amoussou,Benin,Forward,23,Asec Mimosas,6,1,73
+408,Jodel Dossou,Benin,Forward,31,L'US Pays du Valois,7,4,76
+409,Steve Mounie,Benin,Forward,29,Alanyaspor,9,2,78
+410,Junior Olaitan,Benin,Forward,21,Goztepe,5,3,75
+411,Razack Rachidou,Benin,Forward,26,Kustosija,4,1,73
+412,Olatoundji Tessilimi,Benin,Forward,24,SJK Seinajoki,3,2,72
+413,Aiyegun Tosin,Benin,Forward,27,Lorient,8,5,77
+414,Lesenya Malapela,Botswana,Goalkeeper,28,Orapa United,0,0,68
+415,Keoagile Kgosipula,Botswana,Goalkeeper,26,Orapa United,0,0,66
+416,Goitseone Phoko,Botswana,Goalkeeper,30,Jwaneng Galaxy,0,0,70
+417,Kabelo Dambe,Botswana,Goalkeeper,34,Township Rollers,0,0,71
+418,Alford Velaphi,Botswana,Defender,25,Gaborone United,1,2,69
+419,Mothusi Johnson,Botswana,Defender,27,Gaborone United,0,1,68
+420,Mosha Gaolaolwe,Botswana,Defender,33,Township Rollers,2,1,72
+421,Thatayaone Ditlhokwe,Botswana,Defender,26,Al Ittihad,1,1,74
+422,Shanganani Ngandane,Botswana,Defender,29,Mochudi Centre Chiefs,0,1,70
+423,Chicco Molefe,Botswana,Defender,24,Jwaneng Galaxy,1,1,71
+424,Thabo Leinanyane,Botswana,Defender,28,Jwaneng Galaxy,0,1,69
+425,Tebogo Kopelang,Botswana,Defender,23,Jwaneng Galaxy,0,2,70
+426,Godiraone Modingwane,Botswana,Midfielder,26,BDF XI,2,3,71
+427,Olebogeng Ramotse,Botswana,Midfielder,24,Jwaneng Galaxy,1,2,70
+428,Gape Mohutsiwa,Botswana,Midfielder,28,McOran,3,4,73
+429,Omphile Vissagie,Botswana,Midfielder,25,Township Rollers,2,3,72
+430,Gilbert Baruti,Botswana,Midfielder,27,Mochudi Centre Chiefs,1,2,71
+431,Mothusi Cooper,Botswana,Midfielder,29,Township Rollers,3,4,73
+432,Lebogang Ditsile,Botswana,Midfielder,24,Gaborone United,2,2,72
+433,Thabo Maponda,Botswana,Midfielder,26,Gaborone United,1,1,70
+434,Monty Enosa,Botswana,Midfielder,23,Mochudi Centre Chiefs,0,3,71
+435,Roketso Majafi,Botswana,Midfielder,27,Orapa United,2,2,72
+436,Omphile Ramoagi,Botswana,Midfielder,25,Gaborone United,1,1,70
+437,Omaatla Kebatho,Botswana,Forward,23,Jwaneng Galaxy,5,2,72
+438,Kabelo Seakanyeng,Botswana,Forward,31,MAS Fes,6,3,74
+439,Thabang Sesinyi,Botswana,Forward,28,Jwaneng Galaxy,4,1,71
+440,Tumisang Orebonye,Botswana,Forward,29,Wydad AC,7,2,75
+441,Segolame Boye,Botswana,Forward,25,SA Flamingoes,3,1,70
+442,Eric Ookame,Botswana,Forward,26,Orapa United,4,2,73
+443,Thabang Balatlheng,Botswana,Forward,24,Township Rollers,2,1,71
+444,Losika Ratshukudu,Botswana,Forward,27,Ubuntu FC,3,2,72
+445,Thatayaone Kgamanyane,Botswana,Forward,22,Gaborone United,4,3,73
+446,Oussama Benbot,Algeria,Goalkeeper,27,USM Alger,0,0,77
+447,Anthony Mandrea,Algeria,Goalkeeper,27,SM Caen,0,0,76
+448,Luca Zidane,Algeria,Goalkeeper,26,Granada,0,0,75
+449,Rayan Ait-Nouri,Algeria,Defender,23,Manchester City,3,7,84
+450,Rafik Belghali,Algeria,Defender,25,Hellas Verona,1,2,77
+451,Youcef Atal,Algeria,Defender,28,Al Saad,2,4,79
+452,Mehdi Dorval,Algeria,Defender,24,Bari,0,1,74
+453,Aissa Mandi,Algeria,Defender,32,Lille,2,1,81
+454,Samir Chergui,Algeria,Defender,26,Paris FC,1,3,76
+455,Mohamed Tougai,Algeria,Defender,24,ES Tunis,1,1,75
+456,Ramy Bensebaini,Algeria,Defender,29,Dortmund,4,3,82
+457,Zinedine Belaid,Algeria,Defender,22,US Kabylie,0,2,73
+458,Jaouen Hadjam,Algeria,Defender,21,Young Boys,1,3,76
+459,Ismael Bennacer,Algeria,Midfielder,27,Dinamo Zagreb,4,6,83
+460,Ramiz Zerrouki,Algeria,Midfielder,26,FC Twente,3,4,79
+461,Hicham Boudaoui,Algeria,Midfielder,25,Nice,5,5,81
+462,Fares Chaibi,Algeria,Midfielder,21,Eintracht Frankfurt,7,8,82
+463,Houssem Aouar,Algeria,Midfielder,26,Al Ittihad,4,5,80
+464,Ibrahim Maza,Algeria,Midfielder,20,Bayer Leverkusen,3,4,78
+465,Adem Zorgane,Algeria,Midfielder,24,Royale Union Saint-Gilloise,5,7,81
+466,Mohamed Amoura,Algeria,Forward,24,Wolfsburg,14,5,83
+467,Baghdad Bounedjah,Algeria,Forward,33,Al Shamal,12,3,81
+468,Adil Boulbina,Algeria,Forward,25,Al Duhail,8,4,78
+469,Moncef Bakrar,Algeria,Forward,23,Dinamo Zagreb,9,2,79
+470,Redouane Berkane,Algeria,Forward,28,Al Wakrah,6,5,77
+471,Anis Hadj Moussa,Algeria,Forward,22,Feyenoord,5,3,76
+472,Ilan Kebbal,Algeria,Forward,26,Paris FC,7,6,79
+473,Riyad Mahrez,Algeria,Forward,33,Al Ahli,11,10,85
+474,Herve Koffi,Burkina Faso,Goalkeeper,28,Angers,0,0,78
+475,Kylian Nikiema,Burkina Faso,Goalkeeper,26,ADO Den Haag,0,0,74
+476,Farid Ouedraogo,Burkina Faso,Goalkeeper,24,Al Hilal,0,0,76
+477,Abdoul Ayinde,Burkina Faso,Defender,29,KAA Gent,2,3,79
+478,Issoufou Dayo,Burkina Faso,Defender,33,Umm Salal,3,1,78
+479,Nasser Djiga,Burkina Faso,Defender,22,Rangers,1,1,77
+480,Issa Kabore,Burkina Faso,Defender,23,Wrexham,1,4,76
+481,Arsene Kouassi,Burkina Faso,Defender,25,Lorient,0,2,75
+482,Adamo Nagalo,Burkina Faso,Defender,22,PSV,1,1,76
+483,Edmond Tapsoba,Burkina Faso,Defender,25,Bayer Leverkusen,2,2,84
+484,Steeve Yago,Burkina Faso,Defender,31,Aris Limassol,1,2,77
+485,Cedric Badolo,Burkina Faso,Midfielder,29,Spartak Trnava,3,4,76
+486,Stéphane Aziz Ki,Burkina Faso,Midfielder,30,Wydad Casablanca,4,5,78
+487,Ismaila Ouedraogo,Burkina Faso,Midfielder,24,Odense,2,3,75
+488,Saidou Simpore,Burkina Faso,Midfielder,26,National Bank,1,2,74
+489,Blati Touré,Burkina Faso,Midfielder,30,Pyramids,3,4,79
+490,Gustavo Sangaré,Burkina Faso,Midfielder,27,Noah,2,3,76
+491,Mohamed Zoungrana,Burkina Faso,Midfielder,25,Mouloudia Alger,3,5,78
+492,Ousseni Bouda,Burkina Faso,Forward,24,San Jose Earthquakes,6,4,77
+493,Cyriaque Irie,Burkina Faso,Forward,26,Freiburg,7,3,78
+494,Pierre Kabore,Burkina Faso,Forward,22,Hearts,4,2,75
+495,Georgi Minoungou,Burkina Faso,Forward,23,Seattle Sounders,5,1,76
+496,Dango Ouattara,Burkina Faso,Forward,22,Brentford,8,6,81
+497,Bertrand Traore,Burkina Faso,Forward,29,Sunderland,6,4,79
+498,Lassina Traore,Burkina Faso,Forward,23,Shakhtar,9,3,80
+499,Jesús Owono,Equatorial Guinea,Goalkeeper,23,FC Andorra,0,0,74
+500,Manuel Sapunga,Equatorial Guinea,Goalkeeper,30,Sekhukhune,0,0,72
+501,Aitor Embela,Equatorial Guinea,Goalkeeper,21,Lorca,0,0,68
+502,Esteban Orozco,Equatorial Guinea,Defender,26,FC Arges,1,1,73
+503,Marvin Anieboh,Equatorial Guinea,Defender,24,San Sebastian Reyes,0,2,72
+504,Carlos Akapo,Equatorial Guinea,Defender,31,Amazonas,2,3,75
+505,Saul Coco,Equatorial Guinea,Defender,25,Torino,1,1,76
+506,Basilio Ndong,Equatorial Guinea,Defender,28,KF Tirana,0,1,74
+507,Michel Ngaah,Equatorial Guinea,Defender,23,Real Avila CF,0,0,70
+508,Néstor Senra,Equatorial Guinea,Defender,29,Huelva,1,2,73
+509,Charles Ondo,Equatorial Guinea,Defender,27,Portland Timbers,1,1,74
+510,Javier Mum,Equatorial Guinea,Defender,26,Muza FC,0,1,71
+511,Jannick Buyla,Equatorial Guinea,Midfielder,25,Numancia,3,4,74
+512,Omar Mascarell,Equatorial Guinea,Midfielder,31,Mallorca,2,3,77
+513,Pablo Ganet,Equatorial Guinea,Midfielder,30,Persita,4,5,76
+514,Alex Masogo,Equatorial Guinea,Midfielder,27,Beroe,2,2,73
+515,Alex Balboa,Equatorial Guinea,Midfielder,33,CD Lugo,3,4,75
+516,Jose Machin,Equatorial Guinea,Midfielder,27,Monza,4,6,78
+517,Pedro Obiang,Equatorial Guinea,Midfielder,32,Monza,3,5,77
+518,Santiago Eneme,Equatorial Guinea,Midfielder,24,Sparta Prague,5,4,76
+519,Iban Salvador,Equatorial Guinea,Forward,26,Wisla Plock,7,3,77
+520,Josete Miranda,Equatorial Guinea,Forward,28,PS Kalamata,5,2,74
+521,Gael Akogo,Equatorial Guinea,Forward,25,Recreativo Granada,4,1,73
+522,Joel Nabil,Equatorial Guinea,Forward,22,Nantes II,3,2,72
+523,Luismi Nlavo,Equatorial Guinea,Forward,28,Shanghai Shenhua,8,1,76
+524,Dorian Junior,Equatorial Guinea,Forward,23,Viborg FF,4,3,75
+525,Loren Zuniga,Equatorial Guinea,Forward,21,Real Madrid Castilla,2,1,73
+526,Emilio Nsue,Equatorial Guinea,Forward,35,CF Intercity,9,2,78
+527,Ali Aboeshren,Sudan,Goalkeeper,28,Al Hilal OMD,0,0,73
+528,Mohamed Elnour Abooja,Sudan,Goalkeeper,30,Al-Merrikh SC,0,0,71
+529,Monged Elneel,Sudan,Goalkeeper,26,El-Merriekh FC Bentiu,0,0,69
+530,Mohamed Saaed,Sudan,Defender,32,Al Hilal OMD,1,2,74
+531,Altayeb Abdelrazig,Sudan,Defender,29,Al Hilal OMD,0,1,72
+532,Mustafa Karshom,Sudan,Defender,27,Al Hilal OMD,1,1,73
+533,Yasser Awad,Sudan,Defender,31,Al Hilal OMD,2,3,75
+534,Bakhit Khamis,Sudan,Defender,26,Al Ahli Tripoli,1,1,72
+535,Mazin Mohamedein,Sudan,Defender,24,Al Akhdar,0,2,71
+536,Awad Zaid,Sudan,Defender,28,Al-Merrikh SC,1,1,73
+537,Ahmed Abdelmonem,Sudan,Defender,25,Al Hilal OMD,0,1,72
+538,Mohamed Kesra,Sudan,Defender,30,Al-Merrikh SC,2,1,74
+539,Abuaagla Abdalla,Sudan,Midfielder,28,Al Ahly,3,4,76
+540,Waliedin Khidhir,Sudan,Midfielder,26,Al Ahly,2,3,75
+541,Abdelrazig Omer,Sudan,Midfielder,31,Al Hilal OMD,4,5,77
+542,Ammar Tayfour,Sudan,Midfielder,29,CS Sfax,2,2,74
+543,Salaheldin Adil,Sudan,Midfielder,27,Al Hilal OMD,3,3,75
+544,Musa Hussain,Sudan,Midfielder,24,Al-Merrikh SC,1,2,73
+545,Sheddy Ezeldin,Sudan,Midfielder,25,FC Den Bosch,2,4,74
+546,Amar Yunis,Sudan,Midfielder,28,Avondale FC,3,3,73
+547,Yasser Mozamil,Sudan,Forward,27,Al Hilal OMD,7,2,76
+548,Mohamed Abdelrhman,Sudan,Forward,29,Al Hilal OMD,6,1,75
+549,John Mano,Sudan,Forward,26,Al Ahli Tripoli,5,3,74
+550,Mohamed Eisa,Sudan,Forward,28,Uthai Thani FC,4,2,73
+551,Elgozoli Hussain,Sudan,Forward,23,Al-Merrikh SC,3,1,72
+552,Abobaker Eisa,Sudan,Forward,25,Chonburi FC,5,2,74
+553,Mohamed Teya,Sudan,Forward,26,Al-Merrikh SC,4,3,73
+554,Devis Epassy,Cameroon,Goalkeeper,31,Dinamo Bucharest,0,0,76
+555,Simon Omossola,Cameroon,Goalkeeper,36,Saint-Éloi Lupopo,0,0,72
+556,Simon Ngapandouetnbu,Cameroon,Goalkeeper,21,Montpellier,0,0,74
+557,Edouard Sombang,Cameroon,Goalkeeper,24,Colombe Sport,0,0,70
+558,Samuel Kotto,Cameroon,Defender,22,La Gantoise,1,2,75
+559,Gerzino Nyamsi,Cameroon,Defender,27,Lokomotiv Moscow,2,1,77
+560,Jean-Charles Castelletto,Cameroon,Defender,29,Al-Duhail,1,1,78
+561,Nouhou Tolo,Cameroon,Defender,27,Seattle Sounders,1,3,76
+562,Flavien Enzo Boyomo,Cameroon,Defender,22,Osasuna,0,2,74
+563,Mahamadou Nagida,Cameroon,Defender,23,Rennes,1,1,75
+564,Christopher Wooh,Cameroon,Defender,23,Spartak Moscow,2,1,78
+565,Junior Tchamadeu,Cameroon,Defender,20,Stoke City,1,4,76
+566,Darlin Yongwa,Cameroon,Defender,23,Lorient,0,2,75
+567,Martin Ndzie,Cameroon,Midfielder,24,Rapid Vienna,3,5,77
+568,Carlos Baleba,Cameroon,Midfielder,20,Brighton,2,4,79
+569,Arthur Avom,Cameroon,Midfielder,22,Lorient,1,3,76
+570,Eric-Junior Dina Ebimbe,Cameroon,Midfielder,24,Brest,4,6,78
+571,Brice Ambina,Cameroon,Midfielder,22,Valerenga,2,3,75
+572,Jean Junior Onana,Cameroon,Midfielder,24,Genoa,3,4,77
+573,Olivier Kemen,Cameroon,Midfielder,28,Istanbul Basaksehir,4,5,79
+574,Bryan Mbeumo,Cameroon,Forward,25,Manchester United,13,9,85
+575,Christian Bassogog,Cameroon,Forward,29,Al Okhdood,7,4,78
+576,Georges-Kevin N'Koudou,Cameroon,Forward,30,Al-Diraiyah,5,3,77
+577,Danny Namaso,Cameroon,Forward,23,Auxerre,6,2,76
+578,Frank Magri,Cameroon,Forward,24,Toulouse,8,3,78
+579,Karl Etta Eyong,Cameroon,Forward,26,Levante,5,4,77
+580,Christian Kofane,Cameroon,Forward,22,Bayer Leverkusen,4,2,76
+581,Patrick Soko,Cameroon,Forward,21,Almeria,3,1,74
+582,Loyce Mbaba,Gabon,Goalkeeper,24,Stella Club,0,0,71
+583,Anse Ngoubi Demba,Gabon,Goalkeeper,28,Mosta FC,0,0,69
+584,Junior Bekale,Gabon,Goalkeeper,25,Hafia FC,0,0,68
+585,Anthony Oyono,Gabon,Defender,22,Frosinone,1,3,75
+586,Jeremy Oyono,Gabon,Defender,25,Frosinone,0,2,74
+587,Johann Obiang,Gabon,Defender,26,Orleans,1,1,73
+588,Aaron Appindangoye,Gabon,Defender,31,Sivasspor,2,1,76
+589,Bruno Ecuele Manga,Gabon,Defender,35,Paris 13 Atletico,1,0,74
+590,Alexis Moucketou,Gabon,Defender,26,Aris Limassol,1,2,75
+591,Mick Onfia,Gabon,Defender,29,Hafia FC,0,1,70
+592,Jonathan Do Marcolino,Gabon,Defender,23,Bourg-en-Bresse,0,2,72
+593,Uriel-Michel Mboula,Gabon,Defender,24,Metz,1,3,76
+594,Jacques Ekomie,Gabon,Defender,27,Angers,0,1,73
+595,Mario Lemina,Gabon,Midfielder,31,Galatasaray,4,5,82
+596,Samake Nze,Gabon,Midfielder,24,Stade d'Abidjan,2,3,74
+597,Guelor Kanga,Gabon,Midfielder,34,Esenler Erokspor,3,4,77
+598,Eric Gocoum,Gabon,Midfielder,26,Gol Gohar Sirjan FC,1,2,73
+599,André Poko,Gabon,Midfielder,31,Amed SK,2,3,76
+600,Ruben Loufilou,Gabon,Midfielder,28,Al Mina'a SC,3,4,75
+601,Didier Ndong,Gabon,Midfielder,30,Esteghlal,2,3,77
+602,Shavy Babicka,Gabon,Forward,26,Toulouse,7,3,77
+603,Teddy Averlant,Gabon,Forward,24,Amiens,5,2,75
+604,Denis Bouanga,Gabon,Forward,30,LAFC,12,6,81
+605,Edlin Essang-Matouti,Gabon,Forward,25,USM Khenchela,6,1,74
+606,Malick Evouna,Gabon,Forward,32,AS Mangasport Moanda,4,2,73
+607,Pierre-Emerick Aubameyang,Gabon,Forward,35,Marseille,13,5,83
+608,Royce Openda,Gabon,Forward,22,Bordeaux,5,3,76
+609,Jim Allevinah,Gabon,Forward,29,Angers,6,4,78
+610,Yahia Fofana,Cote D'Ivoire,Goalkeeper,24,Caykur Rizespor,0,0,78
+611,Mohamed Kone,Cote D'Ivoire,Goalkeeper,25,Charleroi,0,0,75
+612,Alban Lafont,Cote D'Ivoire,Goalkeeper,25,Panathinaikos,0,0,80
+613,Emmanuel Agbadou,Cote D'Ivoire,Defender,27,Wolves,1,1,79
+614,Willy Boly,Cote D'Ivoire,Defender,33,Nottingham Forest,2,1,78
+615,Ousmane Diomande,Cote D'Ivoire,Defender,21,Sporting CP,3,1,83
+616,Guela Doue,Cote D'Ivoire,Defender,21,Strasbourg,1,2,76
+617,Ghislain Konan,Cote D'Ivoire,Defender,28,Gil Vicente,2,3,77
+618,Odilon Kossounou,Cote D'Ivoire,Defender,24,Atalanta,1,1,82
+619,Evan Ndicka,Cote D'Ivoire,Defender,25,AS Roma,2,2,81
+620,Christopher Operi,Cote D'Ivoire,Defender,27,Istanbul Basaksehir,1,4,78
+621,Armel Zohouri,Cote D'Ivoire,Defender,23,FC Iberia,0,1,73
+622,Seko Fofana,Cote D'Ivoire,Midfielder,29,Rennes,5,6,83
+623,Jean-Philippe Gbamin,Cote D'Ivoire,Midfielder,29,FC Metz,2,3,77
+624,Christ Inao Oulai,Cote D'Ivoire,Midfielder,24,Trabzonspor,3,4,78
+625,Franck Kessie,Cote D'Ivoire,Midfielder,28,Al-Ahli,4,5,84
+626,Ibrahim Sangare,Cote D'Ivoire,Midfielder,26,Nottingham Forest,3,4,82
+627,Jean-Michael Seri,Cote D'Ivoire,Midfielder,33,NK Maribor,2,5,79
+628,Vakoun Bayo,Cote D'Ivoire,Forward,27,Udinese,9,2,79
+629,Oumar Diakite,Cote D'Ivoire,Forward,20,Cercle Brugge,5,3,77
+630,Amad Diallo,Cote D'Ivoire,Forward,22,Manchester United,7,6,81
+631,Yan Diomande,Cote D'Ivoire,Forward,20,RB Leipzig,4,2,78
+632,Sebastien Haller,Cote D'Ivoire,Forward,30,FC Utrecht,11,3,82
+633,Jean-Philippe Krasso,Cote D'Ivoire,Forward,27,Paris FC,8,2,79
+634,Bazoumana Toure,Cote D'Ivoire,Forward,22,Hoffenheim,6,4,78
+635,Wilfried Zaha,Cote D'Ivoire,Forward,32,Charlotte,7,5,81
+636,Ernani Siluane,Mozambique,Goalkeeper,28,Black Bulls,0,0,71
+637,Ivane Urrubal,Mozambique,Goalkeeper,25,UD Songo,0,0,69
+638,Kimiss Zavala,Mozambique,Goalkeeper,22,Maritimo,0,0,70
+639,Bruno Langa,Mozambique,Defender,26,Paphos,1,3,74
+640,Oscar Cherene,Mozambique,Defender,29,UD Songo,0,1,72
+641,Edmilson Dove,Mozambique,Defender,30,Al-Quwa Al-Jawiya,2,1,76
+642,Nanani,Mozambique,Defender,27,UD Songo,1,2,73
+643,Feliciano Jone,Mozambique,Defender,24,Black Bulls,0,1,71
+644,Diogo Cabral,Mozambique,Defender,23,Santa Clara,0,2,73
+645,Reinildo Mandava,Mozambique,Defender,31,Sunderland,1,3,78
+646,Mexer,Mozambique,Defender,35,Keciorengucu,2,1,75
+647,Fernando Chambuco,Mozambique,Defender,28,Black Bulls,1,1,72
+648,Joao Bonde,Mozambique,Midfielder,25,Ferroviario,2,4,73
+649,Ricardo Guimaraes,Mozambique,Midfielder,28,Zira FK,3,5,75
+650,Manuel Kambala,Mozambique,Midfielder,26,Polokwane City,1,2,72
+651,Keyns Abdala,Mozambique,Midfielder,24,Chaves,2,3,74
+652,Alfonso Amade,Mozambique,Midfielder,22,Dunfermline,1,2,73
+653,Geny Catamo,Mozambique,Forward,23,Sporting CP,8,6,79
+654,Witness Quembo,Mozambique,Forward,26,CD Nacional,5,3,75
+655,Elias Pelembe,Mozambique,Forward,41,UD Songo,4,2,74
+656,Chamito Alfandega,Mozambique,Forward,22,AC Viseu U23,3,1,72
+657,Stanley Ratifo,Mozambique,Forward,30,Chemie Leipzig,6,1,76
+658,Faisal Bangal,Mozambique,Forward,24,Mestre,2,0,71
+659,Melque Alexandre,Mozambique,Forward,27,UD Songo,4,2,73
+660,Gildo Vilanculos,Mozambique,Forward,25,Tadamon Sour,3,1,72

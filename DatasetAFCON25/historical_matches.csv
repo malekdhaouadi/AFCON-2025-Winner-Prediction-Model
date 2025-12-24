@@ -1,0 +1,251 @@
+match_id,date,team1,team2,team1_score,team2_score
+1,2023-01-15,Morocco,Nigeria,2,1
+2,2023-01-20,Senegal,Egypt,0,1
+3,2023-03-24,Algeria,Tunisia,1,1
+4,2023-03-28,Cameroon,South Africa,2,2
+5,2023-06-10,Egypt,Zambia,3,1
+6,2023-06-14,Morocco,DRC,2,0
+7,2023-09-09,Nigeria,Ghana,2,1
+8,2023-09-12,Senegal,Cote D'Ivoire,1,0
+9,2023-10-14,Tunisia,Algeria,0,2
+10,2023-10-17,South Africa,Zimbabwe,3,0
+11,2023-11-17,Morocco,Egypt,2,1
+12,2023-11-21,Nigeria,Cameroon,3,2
+13,2024-01-13,Senegal,Morocco,1,2
+14,2024-01-17,Egypt,Tunisia,2,0
+15,2024-01-21,Nigeria,South Africa,1,1
+16,2024-01-25,Cote D'Ivoire,Algeria,0,1
+17,2024-03-22,Ghana,Senegal,1,2
+18,2024-03-26,Morocco,Burkina Faso,3,1
+19,2024-06-07,Algeria,Zambia,2,0
+20,2024-06-11,Egypt,DRC,1,1
+21,2024-09-06,Tunisia,Nigeria,1,2
+22,2024-09-10,South Africa,Morocco,0,2
+23,2024-10-11,Cameroon,Ghana,2,1
+24,2024-10-15,Senegal,Tunisia,2,0
+25,2020-11-13,Morocco,Cameroon,2,1
+26,2020-11-17,Egypt,South Africa,1,0
+27,2021-01-27,Algeria,Nigeria,1,2
+28,2021-03-26,Senegal,Ghana,2,0
+29,2021-03-30,Tunisia,Morocco,0,1
+30,2021-06-05,Cote D'Ivoire,Zambia,3,1
+31,2021-06-09,Egypt,Algeria,2,2
+32,2021-09-03,Morocco,South Africa,2,0
+33,2021-09-07,Nigeria,Cape Verde,2,1
+34,2021-10-09,Senegal,Namibia,4,1
+35,2021-10-12,Tunisia,Mauritania,3,0
+36,2021-11-12,Algeria,Burkina Faso,2,2
+37,2021-11-16,Egypt,Gabon,2,1
+38,2022-01-09,Cameroon,Burkina Faso,2,1
+39,2022-01-13,Morocco,Ghana,1,0
+40,2022-01-17,Senegal,Zimbabwe,1,0
+41,2022-01-21,Nigeria,Egypt,1,0
+42,2022-01-25,Tunisia,Nigeria,1,0
+43,2022-01-29,Senegal,Egypt,0,0
+44,2022-03-25,Algeria,Cameroon,1,2
+45,2022-03-29,Morocco,DRC,1,1
+46,2022-06-04,Egypt,Guinea,3,1
+47,2022-06-09,Nigeria,Sierra Leone,2,1
+48,2022-09-23,Senegal,Iran,1,1
+49,2022-09-27,Morocco,Paraguay,0,0
+50,2022-11-17,Egypt,Belgium,1,2
+51,2022-11-23,Tunisia,Denmark,0,0
+52,2022-11-28,Morocco,Croatia,0,0
+53,2022-12-01,Cameroon,Brazil,1,0
+54,2022-12-04,Senegal,England,0,3
+55,2022-12-10,Morocco,Portugal,1,0
+56,2023-03-24,Algeria,Niger,2,1
+57,2023-03-28,Egypt,Malawi,4,0
+58,2023-06-18,Senegal,Mozambique,3,0
+59,2023-06-20,Nigeria,Ethiopia,2,0
+60,2023-09-09,Tunisia,Botswana,3,1
+61,2023-09-12,Morocco,Liberia,2,0
+62,2023-10-14,Cameroon,Burundi,3,0
+63,2023-10-17,Algeria,Somalia,5,1
+64,2023-11-18,Senegal,South Sudan,4,0
+65,2023-11-21,Egypt,Djibouti,6,0
+66,2024-01-15,Morocco,Angola,2,1
+67,2024-01-19,Nigeria,Guinea-Bissau,1,0
+68,2024-01-23,Senegal,Cameroon,3,1
+69,2024-01-27,Tunisia,Mali,1,0
+70,2024-03-22,Algeria,Uganda,2,0
+71,2024-03-26,Egypt,Comoros,4,1
+72,2024-06-07,Morocco,Zambia,2,0
+73,2024-06-11,Nigeria,Sao Tome,6,0
+74,2024-09-06,Senegal,Rwanda,2,0
+75,2024-09-10,Tunisia,Equatorial Guinea,3,1
+76,2024-10-11,Algeria,Tanzania,2,0
+77,2024-10-15,Egypt,Kenya,3,1
+78,2020-10-09,Nigeria,Tunisia,1,1
+79,2020-10-13,Morocco,Senegal,3,1
+80,2020-11-12,Egypt,Togo,1,0
+81,2020-11-16,Algeria,Zimbabwe,3,1
+82,2021-03-25,Cameroon,Rwanda,3,0
+83,2021-03-29,Ghana,South Africa,1,1
+84,2021-06-08,Morocco,Burkina Faso,1,0
+85,2021-06-12,Nigeria,Cameroon,2,2
+86,2021-09-02,Senegal,Congo,2,0
+87,2021-09-06,Egypt,Angola,1,0
+88,2021-10-07,Tunisia,Equatorial Guinea,3,0
+89,2021-10-10,Algeria,Niger,6,1
+90,2021-11-11,Morocco,Sudan,3,0
+91,2021-11-14,Nigeria,Central African Republic,2,0
+92,2022-01-09,Ghana,Morocco,0,1
+93,2022-01-13,Senegal,Guinea,2,0
+94,2022-01-17,Tunisia,Mauritania,4,0
+95,2022-01-21,Cameroon,Cape Verde,1,1
+96,2022-01-25,Egypt,Ivory Coast,0,0
+97,2022-01-29,Morocco,Malawi,2,1
+98,2022-03-25,Nigeria,Ghana,0,0
+99,2022-03-29,Algeria,Cameroon,1,2
+100,2022-06-04,Senegal,Benin,3,1
+101,2022-06-09,Tunisia,Chile,2,0
+102,2022-09-24,Morocco,Chile,2,0
+103,2022-09-27,Egypt,Liberia,3,0
+104,2022-11-16,Nigeria,Portugal,4,1
+105,2022-11-23,Cameroon,Switzerland,1,0
+106,2022-11-28,Ghana,South Korea,2,3
+107,2022-12-02,Morocco,Spain,0,0
+108,2022-12-06,Senegal,England,0,3
+109,2023-03-23,Algeria,Niger,2,0
+110,2023-03-27,Egypt,Guinea,2,1
+111,2023-06-17,Morocco,South Africa,2,1
+112,2023-06-20,Nigeria,Sierra Leone,3,1
+113,2023-09-08,Senegal,Rwanda,1,0
+114,2023-09-12,Tunisia,Botswana,4,0
+115,2023-10-13,Cameroon,Burundi,2,0
+116,2023-10-17,Algeria,Somalia,3,0
+117,2023-11-17,Morocco,Eritrea,5,0
+118,2023-11-20,Egypt,Liberia,4,0
+119,2024-01-14,Nigeria,Equatorial Guinea,1,1
+120,2024-01-18,Senegal,Gambia,3,0
+121,2024-01-22,Tunisia,Mali,2,1
+122,2024-01-26,Cameroon,Guinea,1,0
+123,2024-03-21,Algeria,Tanzania,2,0
+124,2024-03-25,Morocco,Zambia,3,1
+125,2024-06-06,Nigeria,Sao Tome,4,0
+126,2024-06-10,Egypt,Kenya,2,0
+127,2024-09-05,Senegal,Malawi,2,0
+128,2024-09-09,Tunisia,Libya,1,0
+129,2024-10-10,Algeria,Mozambique,3,1
+130,2024-10-14,Morocco,Namibia,4,0
+131,2020-11-13,Cote D'Ivoire,Madagascar,2,1
+132,2020-11-17,Burkina Faso,Gabon,1,1
+133,2021-03-26,DRC,Angola,1,0
+134,2021-03-30,Uganda,Kenya,0,0
+135,2021-06-05,Zambia,Algeria,3,2
+136,2021-06-09,South Africa,Ghana,1,1
+137,2021-09-03,Cameroon,Malawi,2,0
+138,2021-09-07,Senegal,Congo,3,1
+139,2021-10-08,Togo,Egypt,0,1
+140,2021-10-11,Morocco,Guinea-Bissau,5,0
+141,2021-11-13,Nigeria,Central African Republic,2,0
+142,2021-11-16,Algeria,Burkina Faso,2,2
+143,2022-01-10,Tunisia,Mali,1,0
+144,2022-01-14,Gabon,Ghana,1,1
+145,2022-01-18,Comoros,Gabon,2,1
+146,2022-01-22,Cote D'Ivoire,Egypt,1,0
+147,2022-01-26,Morocco,Malawi,2,1
+148,2022-03-24,Senegal,Egypt,1,0
+149,2022-03-28,Nigeria,Ghana,1,1
+150,2022-06-03,Algeria,Uganda,2,0
+151,2022-06-07,Tunisia,Equatorial Guinea,3,1
+152,2022-09-23,Cameroon,Korea Republic,1,0
+153,2022-09-27,Morocco,Paraguay,0,0
+154,2022-11-18,Senegal,Netherlands,0,2
+155,2022-11-24,Tunisia,Australia,0,1
+156,2022-11-28,Morocco,Canada,2,1
+157,2022-12-02,Senegal,Ecuador,2,1
+158,2022-12-05,Morocco,Spain,0,0
+159,2023-03-24,Burkina Faso,Togo,1,0
+160,2023-03-28,DRC,Mauritania,3,1
+161,2023-06-17,Zambia,Lesotho,2,0
+162,2023-06-20,South Africa,Morocco,0,2
+163,2023-09-09,Uganda,Niger,1,0
+164,2023-09-12,Angola,Gabon,2,1
+165,2023-10-14,Cote D'Ivoire,Malawi,2,0
+166,2023-10-17,Ghana,Central African Republic,2,1
+167,2023-11-17,Tunisia,Equatorial Guinea,3,0
+168,2023-11-20,Algeria,Somalia,4,0
+169,2024-01-13,Morocco,Congo,2,0
+170,2024-01-17,Senegal,Cameroon,1,0
+171,2024-01-21,Nigeria,Egypt,2,1
+172,2024-01-25,Cote D'Ivoire,Algeria,0,1
+173,2024-03-22,Ghana,Nigeria,1,1
+174,2024-03-26,Morocco,Burkina Faso,3,1
+175,2024-06-07,Algeria,Zambia,2,0
+176,2024-06-11,Egypt,DRC,1,1
+177,2024-09-06,Tunisia,Nigeria,1,2
+178,2024-09-10,South Africa,Morocco,0,2
+179,2024-10-11,Cameroon,Ghana,2,1
+180,2024-10-15,Senegal,Tunisia,2,0
+181,2021-01-10,Zimbabwe,Senegal,0,1
+182,2021-01-14,Guinea,Malawi,1,0
+183,2021-01-18,Burkina Faso,Ethiopia,1,1
+184,2021-01-22,Cote D'Ivoire,Algeria,3,1
+185,2021-01-26,Morocco,Malawi,2,1
+186,2021-03-25,Senegal,Congo,2,0
+187,2021-03-29,Ghana,South Africa,1,1
+188,2021-06-04,Morocco,Burkina Faso,1,0
+189,2021-06-08,Nigeria,Cameroon,2,2
+190,2021-09-03,Senegal,Congo,2,0
+191,2021-09-07,Egypt,Angola,1,0
+192,2021-10-08,Tunisia,Equatorial Guinea,3,0
+193,2021-10-11,Algeria,Niger,6,1
+194,2021-11-12,Morocco,Sudan,3,0
+195,2021-11-15,Nigeria,Central African Republic,2,0
+196,2022-01-09,Ghana,Morocco,0,1
+197,2022-01-13,Senegal,Guinea,2,0
+198,2022-01-17,Tunisia,Mauritania,4,0
+199,2022-01-21,Cameroon,Cape Verde,1,1
+200,2022-01-25,Egypt,Ivory Coast,0,0
+201,2022-11-12,Nigeria,Costa Rica,2,0
+202,2022-11-16,Morocco,Georgia,3,0
+203,2022-11-20,Tunisia,Iran,2,0
+204,2022-11-24,Cameroon,Switzerland,1,0
+205,2022-11-28,Ghana,Uruguay,0,2
+206,2022-12-02,Senegal,Ecuador,2,1
+207,2022-12-06,Morocco,Portugal,1,0
+208,2023-01-10,Algeria,Mali,1,0
+209,2023-01-14,Egypt,Guinea,3,1
+210,2023-01-18,Nigeria,Egypt,1,0
+211,2023-01-22,Senegal,Burkina Faso,3,1
+212,2023-03-24,Morocco,Brazil,2,1
+213,2023-03-28,Tunisia,Libya,2,0
+214,2023-06-17,Cameroon,Mexico,1,2
+215,2023-06-20,Algeria,Uganda,2,0
+216,2023-09-09,Ghana,Central African Republic,2,1
+217,2023-09-12,Cote D'Ivoire,Lesotho,1,0
+218,2023-10-14,South Africa,DRC,1,1
+219,2023-10-17,Zambia,Ivory Coast,0,0
+220,2023-11-17,Tunisia,Sao Tome,4,0
+221,2023-11-20,Morocco,Eritrea,5,0
+222,2024-01-13,Nigeria,Equatorial Guinea,1,1
+223,2024-01-17,Senegal,Gambia,3,0
+224,2024-01-21,Tunisia,Mali,2,1
+225,2024-01-25,Cameroon,Guinea,1,0
+226,2024-03-22,Algeria,Tanzania,2,0
+227,2024-03-26,Morocco,Zambia,3,1
+228,2024-06-07,Nigeria,Sao Tome,4,0
+229,2024-06-11,Egypt,Kenya,2,0
+230,2024-09-06,Senegal,Malawi,2,0
+231,2024-09-09,Tunisia,Libya,1,0
+232,2024-10-11,Algeria,Mozambique,3,1
+233,2024-10-14,Morocco,Namibia,4,0
+234,2020-10-08,South Africa,Zambia,1,2
+235,2020-10-12,Ghana,Sudan,2,0
+236,2020-11-11,Algeria,Nigeria,0,1
+237,2020-11-15,Egypt,Togo,1,0
+238,2021-01-12,Morocco,Ghana,1,0
+239,2021-01-16,Senegal,Zimbabwe,1,0
+240,2021-01-20,Tunisia,Mali,1,0
+241,2021-01-24,Cameroon,Cape Verde,1,1
+242,2021-03-26,Algeria,Botswana,5,0
+243,2021-03-30,Egypt,Kenya,1,1
+244,2021-06-06,Morocco,Burkina Faso,1,0
+245,2021-06-10,Nigeria,Central African Republic,2,0
+246,2021-09-05,Senegal,Congo,2,0
+247,2021-09-08,Tunisia,Equatorial Guinea,3,0
+248,2021-10-10,Cameroon,Mozambique,3,1
+249,2021-10-13,Algeria,Djibouti,8,0
+250,2021-11-13,Morocco,Sudan,3,0
