@@ -209,19 +209,6 @@ scikit-learn 1.0+
 pandas 1.3+
 numpy 1.21+
 
-
-Running the Model:
-# Clone repository
-git clone https://github.com/yourusername/afcon-2025-prediction.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run prediction pipeline
-python src/tournament_simulator.py
-
-
-
 Updating Predictions:
 To update predictions with new match results:
 Add completed match data to data/completed_matches.csv
