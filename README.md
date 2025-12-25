@@ -1,14 +1,14 @@
-#AFCON 2025 Winner Prediction Model
+# AFCON 2025 Winner Prediction Model
 
-##Project Overview
+## Project Overview
 A comprehensive machine learning system for predicting match outcomes and tournament results for the Africa Cup of Nations (AFCON) 2025. 
 The model employs ensemble techniques combining multiple predictive approaches to forecast match scores, group stage standings, knockout stage progression, and ultimately the tournament champion.
 
-##Mathematical Framework and Prediction Methodology
+## Mathematical Framework and Prediction Methodology
 
-###**1. Data Integration and Feature Engineering**
+### **1. Data Integration and Feature Engineering**
 
-####Team-Level Features:
+#### Team-Level Features:
 - **FIFA Ranking**: International ranking points (inverse scaling applied)
 - **Attack Strength:** Composite metric derived from historical goal scoring
 - **Defense Strength:** Composite metric derived from historical goals conceded
